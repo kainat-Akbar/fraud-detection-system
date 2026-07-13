@@ -1,0 +1,8 @@
+.git
+__pycache__
+*.pyc
+.instance
+FraudDetectionMobile
+fraud-detection.ipynb
+test_transactions.csv
+data/

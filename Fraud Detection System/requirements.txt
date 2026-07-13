@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-CORS
+pandas
+numpy
+joblib
+PyJWT
+scikit-learn
+xgboost
+imbalanced-learn
+gunicorn
